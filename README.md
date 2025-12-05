@@ -37,7 +37,7 @@ Always learning, always building, always improving.
 
 - **Crypto Dashboard** — Real-time dashboard built using **React + FastAPI**  
 - **Weather Dashboard** — Clean and responsive UI using **HTML, CSS, JS**  
-- **Portfolio Website** — Your personal static site (GitHub Pages)  
+- **Portfolio Website** —  personal static site (GitHub Pages)  
  
 
 ---
