@@ -4,10 +4,9 @@
 I’m a passionate **software & web developer** who loves turning ideas into real, functional applications.  
 Always learning, always building, always improving.
 
-- 🔭 Currently working on: 
+- 🔭 Currently working on:
 - 🌱 Learning: *Next.js, TypeScript, FastAPI, etc.*  
 - 💬 Ask me about: *Frontend, UI/UX, React, APIs*  
-- 📫 Reach me at: *[admin@kausaldev.me / https://www.linkedin.com/in/kausal-upadhayaya/ / https://Kausaldev.me]*
 
 ---
 
@@ -37,8 +36,7 @@ Always learning, always building, always improving.
 
 - **Crypto Dashboard** — Real-time dashboard built using **React + FastAPI**  
 - **Weather Dashboard** — Clean and responsive UI using **HTML, CSS, JS**  
-- **Portfolio Website** —  personal static site (GitHub Pages)  
- 
+- **Portfolio Website** — Personal static site (GitHub Pages)  
 
 ---
 
@@ -48,4 +46,22 @@ Always learning, always building, always improving.
 - Learning opportunities in modern web technologies  
 - Networking with devs around the world 🌍  
 
+---
 
+## 📫 Reach Me At
+
+<p align="left">
+
+  <a href="mailto:admin@kausaldev.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kausal-upadhayaya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+
+  <a href="https://kausaldev.me">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=fff" />
+  </a>
+
+</p>
