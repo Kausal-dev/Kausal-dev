@@ -4,9 +4,9 @@
 I’m a passionate **software & web developer** who loves turning ideas into real, functional applications.  
 Always learning, always building, always improving.
 
-- 🔭 Currently working on: <a href="https://github.com/Kausal-dev/CityTimeCompare" target="_blank">CityTimeCompare</a>
-- 🌱 Learning: *Next.js, TypeScript, FastAPI, etc.*  
-- 💬 Ask me about: *Frontend, UI/UX, React, APIs*  
+- 🔭 **Currently working on:** <a href="https://github.com/Kausal-dev/CityTimeCompare" target="_blank">CityTimeCompare</a>  
+- 🌱 **Learning:** *Next.js, TypeScript, FastAPI, modern APIs*  
+- 💬 **Ask me about:** *Frontend, UI/UX, React, APIs*  
 
 ---
 
@@ -34,17 +34,35 @@ Always learning, always building, always improving.
 
 ## 📂 Featured Projects  
 
-- **Crypto Dashboard** — Real-time dashboard built using **React + FastAPI**  
-- **Weather Dashboard** — Clean and responsive UI using **HTML, CSS, JS**  
-- **Portfolio Website** — Personal static site (GitHub Pages)  
+### 🔹 <a href="https://github.com/Kausal-dev/CityTimeCompare" target="_blank">CityTimeCompare</a>  
+A web app to compare live time differences between any two global cities.  
+**Tech:** JavaScript, APIs, Responsive UI  
+
+---
+
+### 🔹 <a href="https://github.com/Kausal-dev/weather-dashboard" target="_blank">Weather Dashboard</a>  
+A clean, responsive dashboard that shows real-time weather information.  
+**Tech:** HTML, CSS, JavaScript  
+
+---
+
+### 🔹 <a href="https://github.com/Kausal-dev/crypto-dashboard" target="_blank">Crypto Dashboard</a>  
+Real-time cryptocurrency dashboard with charts and updated market data.  
+**Tech:** React, FastAPI  
+
+---
+
+### 🔹 <a href="https://github.com/Kausal-dev/kausal-dev.github.io" target="_blank">Portfolio Website</a>  
+My personal portfolio website showcasing projects, skills, and contact details.  
+**Tech:** HTML, CSS, JS (GitHub Pages)  
 
 ---
 
 ## 🎯 What I’m Open To  
-- Collaborating on interesting **full-stack** or **frontend** projects  
-- Contributing to exciting open-source tools  
-- Learning opportunities in modern web technologies  
-- Networking with devs around the world 🌍  
+- Collaborating on interesting **frontend** or **full-stack** projects  
+- Contributing to open-source tools  
+- Learning opportunities in modern web technology  
+- Networking with developers around the world 🌍  
 
 ---
 
