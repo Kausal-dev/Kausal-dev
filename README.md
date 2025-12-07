@@ -4,7 +4,7 @@
 I’m a passionate **software & web developer** who loves turning ideas into real, functional applications.  
 Always learning, always building, always improving.
 
-- 🔭 Currently working on:
+- 🔭 Currently working on: <a href="https://github.com/Kausal-dev/CityTimeCompare" target="_blank">CityTimeCompare</a>
 - 🌱 Learning: *Next.js, TypeScript, FastAPI, etc.*  
 - 💬 Ask me about: *Frontend, UI/UX, React, APIs*  
 
